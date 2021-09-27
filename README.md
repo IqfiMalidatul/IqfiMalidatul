@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @IqfiMalidatul
+- 👀 I’m interested in Frontend Design
+- 🌱 I’m currently learning Web design
